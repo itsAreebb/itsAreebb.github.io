@@ -1,6 +1,6 @@
 # Certifications · Areeb Ali
 
-Verified professional certificates from DeepLearning.AI. Click a badge to open the official verification page.
+Verified certificates from DeepLearning.AI. Click a badge to open the official verification page.
 
 ---
 
@@ -29,3 +29,13 @@ Courses completed:
 - Supervised Machine Learning: Regression and Classification
 - Advanced Learning Algorithms
 - Unsupervised Learning, Recommenders, Reinforcement Learning
+
+---
+
+## Agentic AI
+
+**DeepLearning.AI · Course Completion · Completed October 11, 2025**
+
+[![Course completion](https://img.shields.io/badge/DeepLearning.AI-Course_Completion-F65B66?style=for-the-badge)](https://www.deeplearning.ai/accomplishments/658fb8c9-9c28-4f4d-8b17-5dbdaff94d5e)
+
+Topic: AI Agents · Graded quiz passed
